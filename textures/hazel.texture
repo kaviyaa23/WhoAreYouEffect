@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "hazel",
+  "identifier": "texture:96444-76c264ce-6fa8-4210-8ca6-2634de235df2",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "5bc360af24c6189a4241f2139676b320",
+  "assetLocator": "textures/hazel.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 500,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 500,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "5bc360af24c6189a4241f2139676b320",
+      "colorCount": 58090,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 14.0380847497951,
+      "pixelsHigh": 500,
+      "pixelsWide": 500
+    }
+  ]
+}

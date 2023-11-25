@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "leo",
+  "identifier": "texture:96436-76c264ce-6fa8-4210-8ca6-2634de235df2",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "f9db08ffb0dfbdaa8dee17b67e8c9d7e",
+  "assetLocator": "textures/leo.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 500,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 500,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "f9db08ffb0dfbdaa8dee17b67e8c9d7e",
+      "colorCount": 93474,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 12.861463666186662,
+      "pixelsHigh": 500,
+      "pixelsWide": 500
+    }
+  ]
+}

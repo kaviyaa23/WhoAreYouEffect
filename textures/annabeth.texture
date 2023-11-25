@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "annabeth",
+  "identifier": "texture:96464-76c264ce-6fa8-4210-8ca6-2634de235df2",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "c8c1bc7348082e5fc12f4b65dd937031",
+  "assetLocator": "textures/annabeth.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 500,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 500,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "c8c1bc7348082e5fc12f4b65dd937031",
+      "colorCount": 113385,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 14.814964030761011,
+      "pixelsHigh": 500,
+      "pixelsWide": 500
+    }
+  ]
+}

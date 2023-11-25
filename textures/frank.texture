@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "frank",
+  "identifier": "texture:96432-76c264ce-6fa8-4210-8ca6-2634de235df2",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "20508185b7c6638755e402471f26d804",
+  "assetLocator": "textures/frank.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 500,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 500,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "20508185b7c6638755e402471f26d804",
+      "colorCount": 167803,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 16.967125373229102,
+      "pixelsHigh": 500,
+      "pixelsWide": 500
+    }
+  ]
+}
